@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=640,minimum-scale=0.5,maximum-scale=1.0,user-scalable=no, initial-scale=1.0" />
+    <title>Shengcai Liao’s Homepage</title>
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+        <header>
+            <div class="scl_header">
+                <img src="/markdownHomepage/image/scliao.png" style="width: 100px; height: 100px;margin-right: 30px;" />
+                <div>
+                    <h1>{{ site.title }}</h1>
+                    <img src="/markdownHomepage/image/email_white.png" style="height: 24px;" />
+                    <div>{{ site.description1}}</div>
+                    <div>{{ site.description2}}</div>
+                    <div><a href="https://scholar.google.com/citations?user=CnqsHlAAAAAJ" target="_blank">Google Scholar</a> &nbsp;&nbsp;| &nbsp;&nbsp;<a href="https://github.com/ShengcaiLiao" target="_blank">GitHub</a> &nbsp;&nbsp;| &nbsp;&nbsp;<a href="https://github.com/VideoObjectSearch" target="_blank">VOS Team</a></div>
+                </div>
+            </div>
+        </header>
+    
+        <div id="banner">
+            <span class="navmenu"><a href="/markdownHomepage/">HOME</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/TEAM_MEMBERS.html">TEAM MEMBERS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/SOURCE_CODES.html">SOURCE CODES</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/PUBLICATIONS.html">PUBLICATIONS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/PROJECTS.html">PROJECTS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/BLOGS.html">BLOGS</a></span>
+            <a href="https://github.com/VideoObjectSearch" target="_blank"><span class="voslib"></span></a>
+            <a href="https://scholar.google.com/citations?user=CnqsHlAAAAAJ" target="_blank"><span class="scholar"></span></a>
+            <a href="https://github.com/ShengcaiLiao" target="_blank"><span class="github"></span></a>
+        </div>
+        <div class="scl_nav mobile">
+            <span class="navmenu"><a href="/markdownHomepage/">HOME</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/TEAM_MEMBERS.html">TEAM MEMBERS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/SOURCE_CODES.html">SOURCE CODES</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/PUBLICATIONS.html">PUBLICATIONS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/PROJECTS.html">PROJECTS</a></span>
+            <span class="navmenu"><a href="/markdownHomepage/BLOGS.html">BLOGS</a></span>
+        </div>
+
+            <div class="wrapper">
+                <nav>
+                    <ul>
+                    </ul>
+                </nav>
+                <section class="scl_content">
+                    {{ content }}
+                </section>
+            </div>
+        </div>
+  </body>
+<style>
+    @media print, screen and (max-width: 500px) {
+        .mobile {
+            display: block;
+        }
+        header {
+            position: fixed;
+        }
+        # banner {
+            display: none;
+        }
+        .scl_nav {
+            background: #ffcc00;
+            border: 1px solid #f0b500;
+            box-shadow: 0px 1px 3px rgb(0 0 0 / 25%);
+            border-radius: 0px 2px 2px 0px;
+            padding-left: 8px;
+            padding-right: 8px;
+            position: fixed;
+            top: 180px;
+            z-index: 999;
+        }
+        .scl_nav span {
+            display: inline-block;
+            width: 150px;
+        }
+        .scl_content {
+            margin-top: 270px;
+            height: auto !important;
+            padding: 6px;
+            margin-right: 0;
+        }
+        .navmenu {
+            line-height: 26px !important;
+        }
+    }
+    @media print, screen and (min-width: 500px) {
+        .mobile {
+            display: none;
+        }
+    }
+    
+    header a {
+        color: #fff;
+    } 
+    .scl_header {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+    #banner {
+        top: 180px;
+    }
+	.wrapper {
+		margin-top: 240px;
+		width: auto;
+		margin-left: 250px;
+	}
+    #banner {
+        padding-left: 10%;
+    }
+    .navmenu {
+        padding-right: 10px;
+        line-height: 50px;
+    }
+    .scl_content ul:first-child {
+        display: none;
+    }
+    nav {
+        width: 230px;
+        position: fixed;
+        top: 240px;
+        left: 0;
+        margin-left: 0;
+        text-align: right;
+    }
+    .scholar {
+        position: absolute;
+        height: 36px;
+        width: 36px;
+        right: 55px;
+        top: 7px;
+        display: block;
+        background: url(/markdownHomepage/image/scholar.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .voslib {
+        position: absolute;
+        height: 36px;
+        width: 36px;
+        right: 103px;
+        top: 7px;
+        display: block;
+        background: url(/markdownHomepage/image/voslib.png);
+        background-position: center;
+        background-repeat: no-repeat;
+	background-size:contain;
+    }
+    .github {
+        position: absolute;
+        height: 36px;
+        width: 36px;
+        right: 7px;
+        top: 7px;
+        display: block;
+        background: url(/markdownHomepage/image/github.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    section {
+        width: auto;
+        margin-right: 250px;
+    }
+</style>
+</html>
+

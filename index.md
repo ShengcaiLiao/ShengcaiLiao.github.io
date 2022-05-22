@@ -28,8 +28,8 @@ Similarity/Metric Learning
 
 ### Employment
 
-* 10/2021 ~ present, Acting Director of R&D, Principal Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/)
-* 10/2018 ~ 09/2021, Lead Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/)
+* 10/2021 ~ present, Acting Director of R&D, Principal Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
+* 10/2018 ~ 09/2021, Lead Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 11/2014 ~ 10/2018, Associate Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 08/2012 ~ 10/2014, Assistant Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 08/2010 ~ 08/2012, Postdoc, [Department of Computer Science & Engineering, Michigan State University](http://www.cse.msu.edu/)

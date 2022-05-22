@@ -8,6 +8,7 @@
 
 ### News
 
+* 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face & Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
 * 10/2018, I have joined the [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), Abu Dhabi, UAE.

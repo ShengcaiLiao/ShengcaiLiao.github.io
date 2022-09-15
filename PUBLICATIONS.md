@@ -36,11 +36,19 @@
 ### Conference Papers
 
 <ol>
+
+<li>Jiaxing Huang, Kaiwen Cui, Dayan Guan, Aoran Xiao, Fangneng Zhan, Shijian Lu, <b>Shengcai Liao</b>, and Eric Xing, “Masked Generative Adversarial Networks are Robust Generation Learners.” In The Thirty-Sixth Conference on Neural Information Processing Systems (<b>NeurIPS</b>), New Orleans, Louisiana, USA, Nov. 28 - Dec. 9, 2022.</li>
+
+<li>Jinpeng Li, Haibo Jin, <b>Shengcai Liao*</b>, Ling Shao, and Pheng-Ann Heng, “RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection.” In The 31st International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Messe Wien, Vienna, Austria, July 23-29, 2022. <b>(Long Oral)</b></li>
+
 <li><b>Shengcai Liao*</b> and Ling Shao, “Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.</li>
+
 <li>Yanan Wang, Xuezhi Liang, and <b>Shengcai Liao*</b>, “Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.</li>
+
 <li>Yichao Yan, Jinpeng Li, <b>Shengcai Liao</b>, Jie Qin, Bingbing Ni, Ke Lu, and Xiaokang Yang, “Exploring Visual Context for Weakly Supervised Person Search.” In the 36th AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Feb. 22 – Mar. 1, 2022.</li>
+
 <li>Wenhao Wang, <b>Shengcai Liao*</b>, Fang Zhao, Cuicui Kang, and Ling Shao, “DomainMix: Learning Generalizable Person Re-Identification Without Human Annotations.” In British Machine Vision Conference (<b>BMVC</b>), 2021.</li>
-<li><b>Shengcai Liao*</b> and Ling Shao, “Transformer-Based Deep Image Matching for Generalizable Person Re-identification.” In Neural Information Processing Systems (<b>NeurIPS</b>), 2021.</li>
+<li><b>Shengcai Liao*</b> and Ling Shao, “TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-Identification.” In Neural Information Processing Systems (<b>NeurIPS</b>), 2021.</li>
 <li>Fang Zhao, Wenhao Wang, <b>Shengcai Liao*</b>, and Ling Shao, “Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction.” In IEEE International Conference on Computer Vision (<b>ICCV</b>), Oct. 11-17, 2021.</li>
 <li>Irtiza Hasan, <b>Shengcai Liao*</b>, Jinpeng Li, Saad Ullah Akram, and Ling Shao. “Generalizable Pedestrian Detection: The Elephant In The Room.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021.</li>
 <li>Yichao Yan, Jingpeng Li, Jie Qin, Song Bai, <b>Shengcai Liao</b>, Li Liu, Fan Zhu, and Ling Shao. “Anchor-Free Person Search.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021.</li>

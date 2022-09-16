@@ -4,7 +4,7 @@
 * [Journal Articles](#journal-articles)
 * [Conference Papers](#conference-papers)
 
-### Journal Articles
+### Journal Articles 
 
 <ol>
 <li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Accepted, 2021.</li>

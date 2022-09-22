@@ -4,7 +4,7 @@
 * [Journal Articles](PUBLICATIONS.md)
 * [Conference Papers](PUBLICATIONS.md)
 
-
+ 
 Book Chapters
 <ol>
 <li>Hailin Shi, <b>Shengcai Liao*</b>, Dong Yi, Stan Z. Li, “Learning Deep Metrics for Person Reidentification,” Chapter 5 in <i>Deep Learning in Biometrics (eds: Mayank Vatsa, Richa Singh, Angshul Majumdar)</i>, CRC Press, 5 March 2018.</li>

@@ -1,7 +1,7 @@
 ### Team Members
 
 
-<div align=center>
+<div align=center> 
     <table>
         <tr>
             <td>

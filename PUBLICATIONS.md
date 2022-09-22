@@ -5,7 +5,7 @@
 * [Conference Papers](#conference-papers)
 
 ### Journal Articles 
-
+ 
 <ol>
 <li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Accepted, 2021.</li>
 <li>Haibo Jin, <b>Shengcai Liao*</b>, and Ling Shao, “Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 129, No. 12, pp. 3174-3194, 2021.</li>

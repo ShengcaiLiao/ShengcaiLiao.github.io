@@ -6,7 +6,7 @@
 * [Awards and Honors](#awards-and-Honors)
 * [Professional Activities](#professional-activities)
 
-### News
+### News 
 
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]

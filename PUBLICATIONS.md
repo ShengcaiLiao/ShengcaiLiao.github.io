@@ -7,7 +7,8 @@
 ### Journal Articles 
  
 <ol>
-<li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Accepted, 2021.</li>
+<li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in Pattern Recognition, Accepted, 2022.</li>
+<li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol 31, pp. 1532–1544, 2022.</li>
 <li>Haibo Jin, <b>Shengcai Liao*</b>, and Ling Shao, “Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 129, No. 12, pp. 3174-3194, 2021.</li>
 <li>Hongsong Wang, <b>Shengcai Liao*</b>, and Ling Shao, “AFAN: Augmented Feature Alignment Network for Cross-Domain Object Detection,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol. 30, pp. 4046-4056, April 1, 2021.</li>
 <li>Jianqing Zhu, Huanqiang Zeng, Jingchang Huang, <b>Shengcai Liao</b>, Zhen Lei, Canhui Cai and Lixin Zheng. “Vehicle Re-Identification Using Quadruple Directional Deep Learning Features.” In <i>IEEE Transactions on Intelligent Transportation Systems (<b>TITS</b>)</i>, Vol. 21, No. 1, pp. 410-420, Jan 2020.</li>

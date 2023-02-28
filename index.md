@@ -60,6 +60,7 @@ Similarity/Metric Learning
 ### Professional Activities
 
 #### Tutorials
+* [Person Re-Identification: Synthetic Data And Model Generalization](https://ijcb2022.org/#/tutorials), in IJCB 2022, October 10, 2022.
 * [Representation Learning for Pedestrian Re-identification](https://eccv2018.org/program/workshops_tutorials/), in ECCV2018, September 8, 2018. [[slides](doc/prid.turtorial.eccv2018.pdf)]
 * [Person Re-identification: State of the Art and Future Trends](http://www.icpr2018.org/index.php?m=content&c=index&a=show&catid=47&id=6), in ICPR2018, August 20, 2018. [[slides](https://liaosc.files.wordpress.com/2019/01/prid.turtorial.icpr2018.pdf)]
 * [Research Progress in Person Re-identification](https://mp.weixin.qq.com/s/sLrCdh5bqLWnduCSLMuRCg), in CCCV2017, October 11, 2017. [[slides](https://liaosc.files.wordpress.com/2019/01/prid.turtorial.cccv2017.pdf)]

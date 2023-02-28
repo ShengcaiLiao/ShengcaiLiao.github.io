@@ -7,7 +7,14 @@
 ### Journal Articles 
  
 <ol>
-<li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in Pattern Recognition, Accepted, 2022.</li>
+
+
+<li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in International Journal of Computer Vision (<b>IJCV</b>), Accepted, 2023.</li>
+
+<li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in Pattern Recognition (<b>PR</b>), Vol. 135, March 2023.</li>
+
+<li>Hangzhi Jiang, <b>Shengcai Liao</b>, Jinpeng Li, Véronique Prinet, and Shiming Xiang, “Urban scene based Semantical Modulation for Pedestrian Detection,” in Neurocomputing, Vol. 474, pp 1-12, Feb 14, 2022.</li>
+
 <li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol 31, pp. 1532–1544, 2022.</li>
 <li>Haibo Jin, <b>Shengcai Liao*</b>, and Ling Shao, “Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 129, No. 12, pp. 3174-3194, 2021.</li>
 <li>Hongsong Wang, <b>Shengcai Liao*</b>, and Ling Shao, “AFAN: Augmented Feature Alignment Network for Cross-Domain Object Detection,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol. 30, pp. 4046-4056, April 1, 2021.</li>
@@ -37,6 +44,10 @@
 ### Conference Papers
 
 <ol>
+
+<li>Kaiwen Cui, Yingchen Yu, Fangneng Zhan, <b>Shengcai Liao</b>, Shijian Lu, and Eric Xing, “KD-GAN: Data Limited Image Generation via Knowledge Distillation.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Vancouver, Canada, June 18-22, 2023.</li>
+
+<li>Zehao Xiao, Xiantong Zhen, <b>Shengcai Liao</b>, and Cees G. M. Snoek, “Energy-Based Test Sample Adaptation for Domain Generalization.” In the Eleventh International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwanda, May 1-5, 2023.</li>
 
 <li>Jiaxing Huang, Kaiwen Cui, Dayan Guan, Aoran Xiao, Fangneng Zhan, Shijian Lu, <b>Shengcai Liao</b>, and Eric Xing, “Masked Generative Adversarial Networks are Robust Generation Learners.” In The Thirty-Sixth Conference on Neural Information Processing Systems (<b>NeurIPS</b>), New Orleans, Louisiana, USA, Nov. 28 - Dec. 9, 2022.</li>
 

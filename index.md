@@ -71,19 +71,19 @@ Similarity/Metric Learning
 * [IJCB 2022](https://ijcb2022.org/#/)
 
 #### Area Chair
-* [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 * IJCAI 2021
 
 #### Program Committee
-* ICCV 2011-2021, CVPR 2012-2021, ECCV 2012-2020
-* NeurIPS 2020-2021, AAAI 2020-2022, ICLR 2022
+* ICCV 2011-2021, CVPR 2012-2021, ECCV 2012-2022
+* NeurIPS 2020-2022, AAAI 2020-2023, ICLR 2022-2023, ICML 2023
 * ICPR 2014-2022, AVSS 2015-2017, WACV 2013, BMVC 2017
 * ICB, IJCB, BTAS
 
-#### Journal Reviewer
+<!-- #### Journal Reviewer
 * IEEE Transactions: [TPAMI](http://www.computer.org/tpami), [TIP](http://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [TNNLS](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html), [TSMC-B](http://www.ieee-smc.org/publications/index.html), [TCSVT](http://tcsvt.polito.it/), [TIFS](http://www.signalprocessingsociety.org/publications/periodicals/forensics/), [TMM](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
 * Elsevier Journals: [PR](http://ees.elsevier.com/pr/), [INS](http://ees.elsevier.com/ins/), [CVIU](http://ees.elsevier.com/cviu/), [IVC](http://www.journals.elsevier.com/image-and-vision-computing/), [Neurocomputing](http://www.journals.elsevier.com/neurocomputing/)
 * Springer Journals: [IJCV](http://www.springer.com/computer/image+processing/journal/11263), [MVAP](http://www.springer.com/computer/image+processing/journal/138), [SIVP](http://www.springer.com/engineering/signals/journal/11760)
-* Others:  [Sensors](http://www.mdpi.com/journal/sensors), [JIVP](http://jivp.eurasipjournals.com/)
+* Others:  [Sensors](http://www.mdpi.com/journal/sensors), [JIVP](http://jivp.eurasipjournals.com/) -->

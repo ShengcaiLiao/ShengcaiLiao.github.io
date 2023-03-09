@@ -72,7 +72,7 @@ Similarity/Metric Learning
 * [IJCB 2022](https://ijcb2022.org/#/)
 
 #### Area Chair
-* [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 * IJCAI 2021

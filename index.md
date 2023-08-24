@@ -8,6 +8,7 @@
  
 ### News 
  
+* 08/2023, Looking for visiting students!
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face & Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
@@ -25,7 +26,9 @@ Face Detection, Face Recognition, Biometrics
 
 Object Detection, Object Tracking, Person Re-identification
 
-Similarity/Metric Learning
+Similarity/Metric Learning, Deep Learning, Domain Generalization
+
+AIGC, Image Generation, Synthetic Persons, MetaHuman
 
 ### Employment
 
@@ -37,8 +40,9 @@ Similarity/Metric Learning
 
 ### Education
 
-* 09/2005 ~ 07/2010, Ph.D., [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
+* 09/2005 ~ 07/2010, PhD, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 09/2001 ~ 07/2005, B.S. Degree in Mathematics, [Sun Yat-sen University](http://www.sysu.edu.cn/)
+* 09/1998 ~ 07/2001, High School, [Meizhou Zengxianzi Middle School](http://www.mzxz.cn/)
 
 ### Awards and Honors
 
@@ -66,13 +70,14 @@ Similarity/Metric Learning
 * [Research Progress in Person Re-identification](https://mp.weixin.qq.com/s/sLrCdh5bqLWnduCSLMuRCg), in CCCV2017, October 11, 2017. [[slides](https://liaosc.files.wordpress.com/2019/01/prid.turtorial.cccv2017.pdf)]
 
 #### Editor
-* [Encyclopedia of Biometrics, 2nd Edition](http://refworks.springer.com/biometrics), Assistant Editor, Springer, 2015
+* Guest Editor, [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://tbiom.ieee-biometrics.org/)
+* Assistant Editor, [Encyclopedia of Biometrics, 2nd Edition](http://refworks.springer.com/biometrics), Springer, 2015
 
 #### Program Chair
 * [IJCB 2022](https://ijcb2022.org/#/)
 
 #### Area Chair
-* [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 * IJCAI 2021

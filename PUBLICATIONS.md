@@ -45,6 +45,8 @@
 
 <ol>
 
+<li>Yingjun Du, Zehao Xiao, <b>Shengcai Liao</b>, Cees G. M. Snoek, “ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion.” In The Thirty-Seventh Conference on Neural Information Processing Systems (<b>NeurIPS</b>), New Orleans, Louisiana, USA, Dec 10-16, 2023.</li>
+
 <li>Kaiwen Cui, Yingchen Yu, Fangneng Zhan, <b>Shengcai Liao</b>, Shijian Lu, and Eric Xing, “KD-GAN: Data Limited Image Generation via Knowledge Distillation.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Vancouver, Canada, June 18-22, 2023.</li>
 
 <li>Zehao Xiao, Xiantong Zhen, <b>Shengcai Liao</b>, and Cees G. M. Snoek, “Energy-Based Test Sample Adaptation for Domain Generalization.” In the Eleventh International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwanda, May 1-5, 2023.</li>

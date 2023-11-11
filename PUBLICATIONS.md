@@ -4,12 +4,13 @@
 * [Journal Articles](#journal-articles)
 * [Conference Papers](#conference-papers)
 
-### Journal Articles 
- 
+### Journal Articles
+
 <ol>
 
+<li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in IEEE Transactions on Image Processing (<b>TIP</b>), Accepted, 2023.</li>
 
-<li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in International Journal of Computer Vision (<b>IJCV</b>), Accepted, 2023.</li>
+<li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 131, No. 7, pp. 1642-1661, 2023.</li>
 
 <li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in Pattern Recognition (<b>PR</b>), Vol. 135, March 2023.</li>
 
@@ -103,4 +104,3 @@
 <li><b>Shengcai Liao</b>, XiangxinZhu, Zhen Lei, Lun Zhang, and Stan Z. Li, “Learning Multi-scale Block Local Binary Patterns for Face Recognition,” In  <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (<b>ICB</b>)</i>, Seoul, Korea, August 2007. (<b>Oral, First Prize of Best Paper Award</b>)</i> [<a href="doc/liao-icb07-mblbp.pdf" target="_blank">pdf</a>]</li>
 <li><b>Shengcai Liao</b>, Zhen Lei, XiangXIn  <i>Zhu, ZheNan Sun, Stan Z. Li, and Tieniu Tan, “Face Recognition Using Ordinal Features,” In  <i>Proceedings of the 1st IAPR International Conference on Biometrics (<b>ICB</b>)</i>, Hong Kong, January 2006. <i>(<b>Oral, Best Student Paper Award</b>)</i> [<a href="doc/liao-icb06-ordinal.pdf" target="_blank">pdf</a>]</li>
 </ol>
-

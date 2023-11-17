@@ -8,7 +8,7 @@
 
 <ol>
 
-<li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in IEEE Transactions on Image Processing (<b>TIP</b>), Accepted, 2023.</li>
+<li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol. 32, pp. 6210-6222, 2023.</li>
 
 <li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 131, No. 7, pp. 1642-1661, 2023.</li>
 

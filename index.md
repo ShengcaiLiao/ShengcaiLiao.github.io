@@ -1,17 +1,16 @@
-
 * [News](#News)
 * [Research Interests](#research-interests)
 * [Employment](#Employment)
 * [Education](#Education)
 * [Awards and Honors](#awards-and-Honors)
 * [Professional Activities](#professional-activities)
- 
-### News 
- 
-* **<font color=red>10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.</font>**
+
+### News
+
+* **`<font color=red>`10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.`</font>`**
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
-* 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face & Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
+* 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face &amp; Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
 * 10/2018, I have joined the [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), Abu Dhabi, UAE.
 * 09/2018, [Slides](doc/prid.turtorial.eccv2018.pdf) of the ECCV tutorial “Representation Learning for Pedestrian Re-identification” have been shared.
 * 08/2018, Welcome to our Github page: [[VideoObjectSearch](https://github.com/VideoObjectSearch)], with several recent codes published in ECCV, ICME, etc.
@@ -20,6 +19,7 @@
 * 07/2014, A benchmark tool for large-scale unconstrained face recognition is released. [[project page](projects/Benchmark_of_Large-scale_Unconstrained_Face_Recognition.md)]
 
 ### Research Interests
+
 Computer Vision, Pattern Recognition, Machine Learning
 
 Face Detection, Face Recognition, Biometrics
@@ -36,7 +36,7 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 * 10/2018 ~ 09/2021, Lead Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 11/2014 ~ 10/2018, Associate Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 08/2012 ~ 10/2014, Assistant Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
-* 08/2010 ~ 08/2012, Postdoc, [Department of Computer Science & Engineering, Michigan State University](http://www.cse.msu.edu/)
+* 08/2010 ~ 08/2012, Postdoc, [Department of Computer Science &amp; Engineering, Michigan State University](http://www.cse.msu.edu/)
 
 ### Education
 
@@ -64,25 +64,32 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 ### Professional Activities
 
 #### Tutorials
+
 * [Person Re-Identification: Synthetic Data And Model Generalization](https://ijcb2022.org/#/tutorials), in IJCB 2022, October 10, 2022.
 * [Representation Learning for Pedestrian Re-identification](https://eccv2018.org/program/workshops_tutorials/), in ECCV2018, September 8, 2018. [[slides](doc/prid.turtorial.eccv2018.pdf)]
 * [Person Re-identification: State of the Art and Future Trends](http://www.icpr2018.org/index.php?m=content&c=index&a=show&catid=47&id=6), in ICPR2018, August 20, 2018. [[slides](https://liaosc.files.wordpress.com/2019/01/prid.turtorial.icpr2018.pdf)]
 * [Research Progress in Person Re-identification](https://mp.weixin.qq.com/s/sLrCdh5bqLWnduCSLMuRCg), in CCCV2017, October 11, 2017. [[slides](https://liaosc.files.wordpress.com/2019/01/prid.turtorial.cccv2017.pdf)]
 
 #### Editor
-* Guest Editor, [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://tbiom.ieee-biometrics.org/)
+
+* Associate Editor, [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
+* Guest Associate Editor, [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://tbiom.ieee-biometrics.org/)
 * Assistant Editor, [Encyclopedia of Biometrics, 2nd Edition](http://refworks.springer.com/biometrics), Springer, 2015
 
 #### Program Chair
+
 * [IJCB 2022](https://ijcb2022.org/#/)
 
 #### Area Chair
-* [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+
+* [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
+
 * IJCAI 2021
 
 #### Program Committee
+
 * ICCV 2011-2021, CVPR 2012-2021, ECCV 2012-2022
 * NeurIPS 2020-2022, AAAI 2020-2024, ICLR 2022-2023, ICML 2023
 * ICPR 2014-2022, AVSS 2015-2017, WACV 2013, BMVC 2017

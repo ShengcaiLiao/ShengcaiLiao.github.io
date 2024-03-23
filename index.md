@@ -7,7 +7,7 @@
 
 ### News
 
-* **`<font color=red>`10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.`</font>`**
+* **<font color=red>10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.</font>**
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face &amp; Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!

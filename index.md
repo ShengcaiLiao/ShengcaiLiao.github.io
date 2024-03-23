@@ -7,7 +7,7 @@
 
 ### News
 
-* **<font color=red>10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.</font>**
+* **`<font color=red>`10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.`</font>`**
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face &amp; Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
@@ -57,7 +57,7 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 * ***Best Student Paper Award (Advisor)***, [The 8th IAPR International Conference on Biometrics (ICB 2015)](http://icb2015.org/), Phuket, Thailand, May 19-22, 2015.
 * ***The 4th Place***, [The VOT2014 Benchmark (in Conjunction with the ECCV 2014)](http://votchallenge.net/vot2014/), Zurich, Switzerland, September 6th, 2014.
 * ***Best Reviewer Award***, IAPR/IEEE International Joint Conference on Biometrics ([IJCB 2014](http://ijcb2014.org/)), 29 September – 2 October 2014, Clearwater, Florida, USA.
-* ***Great Contribution Honor***, face authentication system for [Beijing 2008 Olympic Games and Paralympic Games](http://www.beijing2008.cn/English/)
+* ***Great Contribution Award***, face authentication system for [Beijing 2008 Olympic Games and Paralympic Games](http://www.beijing2008.cn/English/)
 * ***First Prize of Best Paper Award***, the 2nd IAPR/IEEE International Conference on Biometrics ([ICB 2007](http://image.korea.ac.kr/ICB2007/), Seoul, Korea, August, 2007
 * ***Best Student Paper Award***, the 1st IAPR International Conference on Biometrics ([ICB 2006](http://www4.comp.polyu.edu.hk/~icba/)), Hong Kong, January 2006
 

@@ -72,6 +72,7 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 
 #### Editor
 
+* Associate Editor, [IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)
 * Associate Editor, [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
 * Guest Associate Editor, [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://tbiom.ieee-biometrics.org/)
 * Assistant Editor, [Encyclopedia of Biometrics, 2nd Edition](http://refworks.springer.com/biometrics), Springer, 2015

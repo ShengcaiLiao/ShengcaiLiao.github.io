@@ -113,8 +113,7 @@ Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “So
 <li>Junjie Yan, Xucong Zhang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Robust Multi-Resolution Pedestrian Detection In  <i>Traffic Scenes,” In  <i>Proceedings of the 26th IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, Portland, Oregon, June 23-28, 2013.</li>
 <li>Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection with Component Dependent Descriptor,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
 <li>Tao Wang, Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection Using 3D Structure Recovered from a Single Camera,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
-<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Local Sparse Discriminant Analysis</li>
-<li>For Robust Face Recognition,” in <i>the 5th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG 2013, in conjunction with CVPR 2013)</i>, Portland, Oregon, USA, June 23-28, 2013.</li>
+<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Local Sparse Discriminant Analysis For Robust Face Recognition,” in <i>the 5th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG 2013, in conjunction with CVPR 2013)</i>, Portland, Oregon, USA, June 23-28, 2013.</li>
 </ol>
 
 2012

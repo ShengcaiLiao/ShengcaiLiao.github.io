@@ -110,46 +110,54 @@ Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “So
 <li>Jianqing Zhu, <b>Shengcai Liao</b>, Zhen Lei, Dong Yi and Stan Z. Li, “Pedestrian Attribute Classification in Surveillance: Database and Evaluation,” in <i>ICCV workshop on Large-Scale Video Search and Mining</i>, Sydney, Australia, December 1-8, 2013.</li>
 <li>Yang Hu, <b>Shengcai Liao</b>, Zhen Lei, Dong Yi, Stan Z. Li, “Exploring Structural Information and Fusing Multiple Features for Person Re-identification,” in <i>IEEE Workshop on Camera Networks and Wide Area Scene Analysis (in conjunction with CVPR 2013)</i>, Portland, Oregon, June 23-28, 2013.</li>
 <li>Stan Z. Li, Dong Yi, Zhen Lei, <b>Shengcai Liao</b>, “The CASIA NIR-VIS 2.0 Face Database,” in <i>IEEE Workshop on Perception Beyond the Visible Spectrum (in conjunction with CVPR 2013)</i>, Portland, Oregon, June 23-28, 2013.</li>
-<li>Junjie Yan, Xucong Zhang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Robust Multi-Resolution Pedestrian Detection In  <i>Traffic Scenes,” In  <i>Proceedings of the 26th IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, Portland, Oregon, June 23-28, 2013.</li>
+<li>Junjie Yan, Xucong Zhang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Robust Multi-Resolution Pedestrian Detection In Traffic Scenes,” In  <i>Proceedings of the 26th IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, Portland, Oregon, June 23-28, 2013.</li>
 <li>Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection with Component Dependent Descriptor,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
 <li>Tao Wang, Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection Using 3D Structure Recovered from a Single Camera,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
 <li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Local Sparse Discriminant Analysis For Robust Face Recognition,” in <i>the 5th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG 2013, in conjunction with CVPR 2013)</i>, Portland, Oregon, USA, June 23-28, 2013.</li>
-
 </ol>
 
 2012
 
 <ol>
-<li>Hyunju Maeng, <b>Shengcai Liao</b>, Dongoh Kang, Seong-Whan Lee, and Anil K. Jain, “Nighttime Face Recognition at Long Distance: Cross-distance and Cross-spectral Matching,” in <i>Proceedings of the 11th Asian Conference on Computer Vision (ACCV2012), Daejeon, Korea, November 5-9, 2012.</li>
-<li>Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Efficient Feature Selection for Linear Discriminant Analysis and Its Application to Face Recognition,” in <i>International Conference on Pattern Recognition, 2012.</li>
-<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Kernel Homotopy based Sparse Representation for Object Classification,” in <i>International Conference on Pattern Recognition, 2012.</li>
+<li>Hyunju Maeng, <b>Shengcai Liao</b>, Dongoh Kang, Seong-Whan Lee, and Anil K. Jain, “Nighttime Face Recognition at Long Distance: Cross-distance and Cross-spectral Matching,” in <i>Proceedings of the 11th Asian Conference on Computer Vision (ACCV2012)</i>, Daejeon, Korea, November 5-9, 2012.</li>
+<li>Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Efficient Feature Selection for Linear Discriminant Analysis and Its Application to Face Recognition,” in <i>International Conference on Pattern Recognition</i>, 2012.</li>
+<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Kernel Homotopy based Sparse Representation for Object Classification,” in <i>International Conference on Pattern Recognition</i>, 2012.</li>
 </ol>
 
 2011
 
 <ol>
 <li><b>Shengcai Liao</b> and Anil K. Jain, “Partial Face Recognition: an Alignment Free Approach,” In  <i>Proceedings of the IAPR/IEEE International Joint Conference on Biometrics (<b>IJCB</b>)</i>, Washington D.C., USA, Oct. 11-13, 2011. [<a href="doc/liaojain-ijcb11-pfr.pdf" target="_blank">pdf</a>] [<a href="doc/liaojain-ijcb11-pfr-posterspotlight.pdf" target="_blank">Spotlight</a>] [<a href="doc/liaojain-ijcb11-pfr-poster.pdf" target="_blank">poster</a>]</li>
-<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Kernel Sparse Representation with Local Patterns for Face Recognition,” in <i>Proceedings of the IEEE International Conference on Image Processing (ICIP 2011), Brussels, Belgium, September 11-14, 2011. [<a href="doc/kang-icip-2011-kernelsparselbp.pdf">pdf</a>]</li>
+<li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Kernel Sparse Representation with Local Patterns for Face Recognition,” in <i>Proceedings of the IEEE International Conference on Image Processing (ICIP 2011)</i>, Brussels, Belgium, September 11-14, 2011. [<a href="doc/kang-icip-2011-kernelsparselbp.pdf">pdf</a>]</li>
 </ol>
 
 2010
 
 <ol>
 <li><b>Shengcai Liao</b>, Guoying Zhao, Vili Kellokumpu, Matti Pietikäinen, and Stan Z. Li, “Modeling Pixel Process with Scale Invariant Local Patterns for Background Subtraction In Complex Scenes,” In  <i>Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, San Francisco, CA, USA, June 13-18, 2010. [<a href="doc/liao-cvpr10-bgsiltp.pdf" target="_blank">pdf</a>]</li>
+
 <li>Shikun Feng, <b>Shengcai Liao</b>, Zhiyong Yuan, and Stan Z. Li, “Online Principal Background Selection for Video Synopsis,” in <i>Proceedings of the 20th International Conference on Pattern Recognition (ICPR 2010)</i>, Istanbul, Turkey, August 23-26, 2010. [<a href="doc/feng-icpr-2010-opbs.pdf">pdf</a>]</li>
+
 <li>Rui Qin, <b>Shengcai Liao</b>, Zhen Lei, and Stan Z. Li, “Moving Cast Shadow Removal Based on Local Descriptors,” in <i>Proceedings of the 20th International Conference on Pattern Recognition (ICPR 2010)</i>, Istanbul, Turkey, August 23-26, 2010. [<a href="doc/qin-icpr-2010-shadow.pdf">pdf</a>]</li>
-<li>Nan Zheng, Qiudan Li, <b>Shengcai Liao</b>, and Leiming Zhang, “Flickr group recommendation based on tensor decomposition,” In  <i>Proceedings of the 33rd International ACM SIGIR Conference on Research and Development In  <i>Information Retrieval (<b>SIGIR</b>)</i>, pp. 737-738, Geneva, Switzerland, July 19-23, 2010. [<a href="doc/zheng-sigir-2010-tensor.pdf" target="_blank">pdf</a>]</li>
+
+<li>Nan Zheng, Qiudan Li, <b>Shengcai Liao</b>, and Leiming Zhang, “Flickr group recommendation based on tensor decomposition,” In  <i>Proceedings of the 33rd International ACM SIGIR Conference on Research and Development In Information Retrieval (<b>SIGIR</b>)</i>, pp. 737-738, Geneva, Switzerland, July 19-23, 2010. [<a href="doc/zheng-sigir-2010-tensor.pdf" target="_blank">pdf</a>]</li>
 </ol>
 
 2009
 
 <ol>
-<li><b>Shengcai Liao</b>, Zhen Lei, and Stan Z. Li, “Nonnegative Matrix Factorization with Gibbs Random Field Modeling,” In  <i>Proceedings of the 2nd IEEE International Workshop on Subspace <i>(in conjunction with <b>ICCV 2009</b>)</i>, Kyoto, Japan, Sep. 27, 2009. (<b>Oral</b>)</i> [<a href="doc/liao-subspace09-grf-nmf.pdf" target="_blank">pdf</a>]</li>
-<li>Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li, “Stepwise Correlation Metric Based Discriminant Analysis and Multi-Probe Images Fusion for Face Recognition,” in <i>Proceedings of the 2nd IEEE International Workshop on Subspace (in conjunction with ICCV 2009), Kyoto, Japan, Sep. 27, 2009. [<a href="doc/lei-subspace09-scda.pdf">pdf</a>]</li>
+<li><b>Shengcai Liao</b>, Zhen Lei, and Stan Z. Li, “Nonnegative Matrix Factorization with Gibbs Random Field Modeling,” In <i>Proceedings of the 2nd IEEE International Workshop on Subspace (in conjunction with <b>ICCV 2009</b>)</i>, Kyoto, Japan, Sep. 27, 2009. <i>(<b>Oral</b>)</i> [<a href="doc/liao-subspace09-grf-nmf.pdf" target="_blank">pdf</a>]</li>
+
+<li>Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li, “Stepwise Correlation Metric Based Discriminant Analysis and Multi-Probe Images Fusion for Face Recognition,” in <i>Proceedings of the 2nd IEEE International Workshop on Subspace (in conjunction with ICCV 2009)</i>, Kyoto, Japan, Sep. 27, 2009. [<a href="doc/lei-subspace09-scda.pdf">pdf</a>]</li>
+
 <li>Jitao Sang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li, “Adaptive Object Classification in Surveillance System by Exploiting Scene Context,” in <i>Proceedings of the 1st IEEE International Workshop on Visual Scene Understanding (ViSU 2009, in conjunction with CVPR 2009)</i>, Miami, Florida, June 25, 2009. [<a href="doc/sang-visu09-adaptive.pdf">pdf</a>]</li>
+
 <li><b>Shengcai Liao</b>, Dong Yi, Zhen Lei, Rui Qin, and Stan Z. Li, “Heterogeneous Face Recognition from Local Structures of Normalized Appearance,” In  <i>Proceedings of the 3rd IAPR/IEEE International Conference on Biometrics (<b>ICB </b>)</i>, Alghero, Italy, June 2009. [<a href="doc/liao-icb09-hfr-lsna.pdf" target="_blank">pdf</a>]</li>
+
 <li>Zhen Lei, <b>Shengcai Liao</b>, Dong Yi, Rui Qin, and Stan Z. Li, “A Discriminant Analysis Method for Face Recognition in Heteroscedastic Distributions,” in <i>Proceedings of the 3rd IAPR/IEEE International Conference on Biometrics (ICB 2009)</i>, Alghero, Italy, June 2009. [<a href="doc/lei-icb09-lsr-lda.pdf">pdf</a>]</li>
+
 <li>Dong Yi, <b>Shengcai Liao</b>, Zhen Lei, Jitao Sang, Stan Z. Li, “Partial Face Matching between Near Infrared and Visual Images in MBGC Portal Challenge,” in <i>Proceedings of the 3rd IAPR/IEEE International Conference on Biometrics (ICB 2009)</i>, Alghero, Italy, June 2009. [<a href="doc/yi-icb09-skin-mbgc.pdf">pdf</a>]</li>
+
 <li>Jimei Yang, <b>Shengcai Liao</b>, and Stan Z. Li, “Automatic Partial Face Alignment in NIR Video Sequences,” in <i>Proceedings of the 3rd IAPR/IEEE International Conference on Biometrics, (ICB 2009)</i>, Alghero , Italy , June 2009. [<a href="doc/yang-icb09-part-align.pdf">pdf</a>]</li>
 </ol>
 
@@ -163,19 +171,28 @@ Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “So
 
 <ol>
 <li>Ran He, Stan Z. Li, Zhen Lei, and <b>Shengcai Liao</b>, “Coarse-to-Fine Statistical Shape Model by Bayesian Inference,” in <i>Proceedings of the 8th Asian Conference on Computer Vision (ACCV 2007)</i>, Tokyo, Japan, Nov. 2007. [<a href="doc/he-accv07-shape.pdf">pdf</a>]</li>
-<li><b>Shengcai Liao</b>, Zhen Lei, Stan Z. Li, Xiaotong Yuan, and Ran He, “Structured Ordinal Features for Appearance-Based Object Representation,” In  <i>Proceedings of IEEE International Workshop on Analysis and Modeling of Faces and Gestures  <i>(<b>AMFG 2007</b>, In conjunction with <b>ICCV 2007</b>)</i>, Rio de Janeiro, Brazil, October 2007. (<b>Oral</b>)</i> [<a href="doc/liao-amfg07-sof.pdf" target="_blank">pdf</a>]</li>
+
+<li><b>Shengcai Liao</b>, Zhen Lei, Stan Z. Li, Xiaotong Yuan, and Ran He, “Structured Ordinal Features for Appearance-Based Object Representation,” In  <i>Proceedings of IEEE International Workshop on Analysis and Modeling of Faces and Gestures (<b>AMFG 2007</b>, In conjunction with <b>ICCV 2007</b>)</i>, Rio de Janeiro, Brazil, October 2007. <i>(<b>Oral</b>)</i> [<a href="doc/liao-amfg07-sof.pdf" target="_blank">pdf</a>]</li>
+
 <li>Wei-shi Zheng, Stan Z. Li, J. H. Lai, and <b>Shengcai Liao</b>, “On constrained sparse matrix factorization,” In  <i>Proceedings of IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>, Rio de Janeiro, Brazil, October 2007. [<a href="doc/zheng-iccv07-csmf.pdf" target="_blank">pdf</a>]</li>
+
 <li>Rufeng Chu, <b>Shengcai Liao</b>, Yufei Han, Zhenan Sun, Stan Z. Li, and Tieniu Tan, “Fusion of Face and Palmprint for Personal Identification Based on Ordinal Features,” in <i>Proceedings of IEEE International Workshop on Multimodal Sentient Computing: Sensors, Algorithms and Systems (in conjunction with CVPR 2007)</i>, Minneapolis, USA, June 2007. [<a href="doc/chu-cvpr07w-ordinal-face-palm-fusion.pdf">pdf</a>]</li>
+
 <li>Ke Pan, <b>Shengcai Liao</b>, Zhijian Zhang, Stan Z. Li, and Peiren Zhang, “Part-based Face Recognition Using Near Infrared Images,” in <i>Proceedings of IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum (OTCBVS 2007, in conjunction with CVPR 2007)</i>, Minneapolis, USA, June 2007. [<a href="doc/pan-otcbvs07-part-based-nir.pdf">pdf</a>]</li>
-<li><b>Shengcai Liao</b>, XiangxinZhu, Zhen Lei, Lun Zhang, and Stan Z. Li, “Learning Multi-scale Block Local Binary Patterns for Face Recognition,” In  <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (<b>ICB</b>)</i>, Seoul, Korea, August 2007. (<b>Oral, First Prize of Best Paper Award</b>)</i> [<a href="doc/liao-icb07-mblbp.pdf" target="_blank">pdf</a>]</li>
+
+<li><b>Shengcai Liao</b>, XiangxinZhu, Zhen Lei, Lun Zhang, and Stan Z. Li, “Learning Multi-scale Block Local Binary Patterns for Face Recognition,” In  <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (<b>ICB</b>)</i>, Seoul, Korea, August 2007. <i>(<b>Oral, First Prize of Best Paper Award</b>)</i> [<a href="doc/liao-icb07-mblbp.pdf" target="_blank">pdf</a>]</li>
+
 <li>Zhen Lei, Rufeng Chu, Ran He, <b>Shengcai Liao</b>, and Stan Z. Li, “Face Recognition by Discriminant Analysis with Gabor Tensor Representation,” in <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (ICB 2007)</i>, Seoul, Korea, August 2007. [<a href="doc/lei-icb07-gabor-tensor.pdf">pdf</a>]</li>
+
 <li>Xiangxin Zhu, <b>Shengcai Liao</b>, Zhen Lei, Rong Liu, and Stan Z. Li, “Feature Correlation Filter for Face Recognition,” in <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (ICB 2007)</i>, Seoul, Korea, August 2007. [<a href="doc/zhu-icb07-corr-filter.pdf">pdf</a>]</li>
+
 <li>Lun Zhang, Rufeng Chu, Shiming Xiang, <b>Shengcai Liao</b>, and Stan Z. Li, “Face Detection Based on Multi-Block LBP Representation,” in <i>Proceedings of the 2nd IAPR/IEEE International Conference on Biometrics (ICB 2007)</i>, Seoul, Korea , August 2007. [<a href="doc/zhang-icb07-mblbp.pdf">pdf</a>]</li>
 </ol>
 
 2006
 
 <ol>
-<li>Stan Z. Li, Lun Zhang, <b>Shengcai Liao</b>, Xiangxin Zhu, Rufeng Chu, Meng Ao, and Ran He, “A near-infrared image based face recognition system,” in <i>Proceedings of the 7th IEEE International Conference Automatic Face and Gesture Recognition (FG 2006)</i>, pp. 455-460, Southampton, UK, April 10-12, 2006. [<a href="doc/li-fg06-nir-frs.pdf">pdf</i>]</li>
-<li><b>Shengcai Liao</b>, Zhen Lei, XiangXIn  <i>Zhu, ZheNan Sun, Stan Z. Li, and Tieniu Tan, “Face Recognition Using Ordinal Features,” In  <i>Proceedings of the 1st IAPR International Conference on Biometrics (<b>ICB</b>)</i>, Hong Kong, January 2006. <i>(<b>Oral, Best Student Paper Award</b>)</i> [<a href="doc/liao-icb06-ordinal.pdf" target="_blank">pdf</a>]</li>
+<li>Stan Z. Li, Lun Zhang, <b>Shengcai Liao</b>, Xiangxin Zhu, Rufeng Chu, Meng Ao, and Ran He, “A near-infrared image based face recognition system,” in <i>Proceedings of the 7th IEEE International Conference Automatic Face and Gesture Recognition (FG 2006)</i>, pp. 455-460, Southampton, UK, April 10-12, 2006. [<a href="doc/li-fg06-nir-frs.pdf">pdf</a>]</li>
+
+<li><b>Shengcai Liao</b>, Zhen Lei, XiangXIn Zhu, ZheNan Sun, Stan Z. Li, and Tieniu Tan, “Face Recognition Using Ordinal Features,” In  <i>Proceedings of the 1st IAPR International Conference on Biometrics (<b>ICB</b>)</i>, Hong Kong, January 2006. <i>(<b>Oral, Best Student Paper Award</b>)</i> [<a href="doc/liao-icb06-ordinal.pdf" target="_blank">pdf</a>]</li>
 </ol>

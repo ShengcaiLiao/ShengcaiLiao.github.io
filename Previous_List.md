@@ -114,6 +114,7 @@ Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “So
 <li>Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection with Component Dependent Descriptor,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
 <li>Tao Wang, Jianwei Yang, Zhen Lei, <b>Shengcai Liao</b>, Stan Z. Li, “Face Liveness Detection Using 3D Structure Recovered from a Single Camera,” in <i>Proceedings of the 6th IAPR International Conference on Biometrics (ICB2013)</i>, Madrid, Spain, June 4-7, 2013.</li>
 <li>Cuicui Kang, <b>Shengcai Liao</b>, Shiming Xiang, and Chunhong Pan, “Local Sparse Discriminant Analysis For Robust Face Recognition,” in <i>the 5th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG 2013, in conjunction with CVPR 2013)</i>, Portland, Oregon, USA, June 23-28, 2013.</li>
+
 </ol>
 
 2012

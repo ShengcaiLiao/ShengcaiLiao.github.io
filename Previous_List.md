@@ -71,7 +71,7 @@ Conference Papers
 <ol>
 <li>Cuicui Kang, <b>Shengcai Liao*</b>, Zhen Li, Zigang Cao and Gang Xiong. “Learning Deep Semantic Embeddings for Cross-Modal Retrieval.” In <i>The 9th Asian Conference on Machine Learning (<b>ACML</b>)</i>, Yonsei University, Seoul, Korea, November 15-17, 2017.</li>
 <li>Haibo Jin, Xiaobo Wang, <b>Shengcai Liao*</b> and Stan Z. Li. “Deep person re-identification with improved embedding and efficient training.” In  <i>IEEE International Joint Conference on Biometrics (<b>IJCB</b>)</i>, Denver, Colorado, USA, October 1-4, 2017. [<a href="https://github.com/VideoObjectSearch/tf-re-id" target="_blank">code</a>]</li>
-Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “Soft-Margin Softmax for Deep Classification.” in <i>The 24th International Conference on Neural Information Processing (ICONIP)</i>, Guangzhou, China, November 14–18, 2017.
+<li>Xuezhi Liang, Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, and Stan Z. Li. “Soft-Margin Softmax for Deep Classification.” in <i>The 24th International Conference on Neural Information Processing (ICONIP)</i>, Guangzhou, China, November 14–18, 2017.</li>
 </ol>
 
 2016

@@ -46,6 +46,8 @@
 
 <ol>
 
+<li>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, Zutao Jiang, Hang Xu, <b>Shengcai Liao</b>, Xiaodan Liang, “HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance.” In the 18th European Conference on Computer Vision (<b>ECCV</b>), Milano, Italy, Sep 29 - Oct 4, 2024.</li>
+
 <li> Zehao Xiao, Jiayi Shen, Mohammad Mahdi Derakhshani, <b>Shengcai Liao</b>, Cees Snoek, “Any-Shift Prompting for Generalization over Distributions.” In IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Seattle WA, USA, June 17-21, 2024.</li>
 
 <li>Yingjun Du, Zehao Xiao, <b>Shengcai Liao</b>, and Cees G. M. Snoek, “ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion.” In The Thirty-Seventh Conference on Neural Information Processing Systems (<b>NeurIPS</b>), New Orleans, Louisiana, USA, Dec 10-16, 2023.</li>

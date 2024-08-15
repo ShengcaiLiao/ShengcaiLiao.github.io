@@ -7,7 +7,7 @@
 
 ### News
 
-* **<font color=red>10/2023, We are hiring computer vision scientists, postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.</font>**
+* **`<font color=red>`08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor. I'm looking for postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.`</font>`**
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face &amp; Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
@@ -32,7 +32,8 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 
 ### Employment
 
-* 10/2021 ~ present, Acting Director of R&D, Principal Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
+* 08/2024 ~ present, Associate Professor, [College of Information Technology (CIT)](https://www.uaeu.ac.ae/en/cit/), [United Arab Emirates University (UAEU)](https://www.uaeu.ac.ae/)
+* 10/2021 ~ 06/2024, Acting Director of R&D, Principal Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 10/2018 ~ 09/2021, Lead Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 11/2014 ~ 10/2018, Associate Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 08/2012 ~ 10/2014, Assistant Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
@@ -83,7 +84,7 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 
 #### Area Chair
 
-* [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 

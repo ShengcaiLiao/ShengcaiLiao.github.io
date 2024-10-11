@@ -84,7 +84,7 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 
 #### Area Chair
 
-* [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 

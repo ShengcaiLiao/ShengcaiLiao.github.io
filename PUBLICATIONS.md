@@ -8,26 +8,38 @@
 
 <ol>
 
-<li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol. 32, pp. 6210-6222, 2023.</li>
+<li>Xingping Dong*, Tianran Ouyang, <b>Shengcai Liao*</b>, and Ling Shao, “Pseudo-Labeling Based Practical Semi-Supervised Meta-Training for Few-Shot Learning,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 33, pp. 5663-5675, 20 September 2024.</li>
 
-<li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 131, No. 7, pp. 1642-1661, 2023.</li>
+<li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 32, pp. 6210-6222, 2023.</li>
 
-<li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in Pattern Recognition (<b>PR</b>), Vol. 135, March 2023.</li>
+<li>Yichao Yan, Jinpeng Li, Jie Qin, <b>Shengcai Liao</b>, and Xiaokang Yang, “Efficient Person Search: An Anchor-Free Approach,” in <i>International Journal of Computer Vision (<b>IJCV</b>)</i>, Vol. 131, No. 7, pp. 1642-1661, 2023.</li>
 
-<li>Hangzhi Jiang, <b>Shengcai Liao</b>, Jinpeng Li, Véronique Prinet, and Shiming Xiang, “Urban scene based Semantical Modulation for Pedestrian Detection,” in Neurocomputing, Vol. 474, pp 1-12, Feb 14, 2022.</li>
+<li>Wei Liu, Irtiza Hasan, and <b>Shengcai Liao*</b>, “Center and Scale Prediction: Anchor-free Approach for Pedestrian and Face Detection,” in <i>Pattern Recognition (<b>PR</b>)</i>, Vol. 135, March 2023.</li>
 
-<li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol 31, pp. 1532–1544, 2022.</li>
-<li>Haibo Jin, <b>Shengcai Liao*</b>, and Ling Shao, “Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild,” in International Journal of Computer Vision (<b>IJCV</b>), Vol. 129, No. 12, pp. 3174-3194, 2021.</li>
-<li>Hongsong Wang, <b>Shengcai Liao*</b>, and Ling Shao, “AFAN: Augmented Feature Alignment Network for Cross-Domain Object Detection,” in IEEE Transactions on Image Processing (<b>TIP</b>), Vol. 30, pp. 4046-4056, April 1, 2021.</li>
+<li>Hangzhi Jiang, <b>Shengcai Liao</b>, Jinpeng Li, Véronique Prinet, and Shiming Xiang, “Urban scene based Semantical Modulation for Pedestrian Detection,” in <i>Neurocomputing</i>, Vol. 474, pp 1-12, Feb 14, 2022.</li>
+
+<li>Wenhao Wang, Fang Zhao, <b>Shengcai Liao</b>, and Ling Shao, “Attentive WaveBlock: Complementarity-enhanced Mutual Networks for Unsupervised Domain Adaptation in Person Re-identification and Beyond,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol 31, pp. 1532–1544, 2022.</li>
+
+<li>Haibo Jin, <b>Shengcai Liao*</b>, and Ling Shao, “Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild,” in <i>International Journal of Computer Vision (<b>IJCV</b>)</i>, Vol. 129, No. 12, pp. 3174-3194, 2021.</li>
+
+<li>Hongsong Wang, <b>Shengcai Liao*</b>, and Ling Shao, “AFAN: Augmented Feature Alignment Network for Cross-Domain Object Detection,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 30, pp. 4046-4056, April 1, 2021.</li>
+
 <!--<li>Jianqing Zhu, Huanqiang Zeng, Jingchang Huang, <b>Shengcai Liao</b>, Zhen Lei, Canhui Cai and Lixin Zheng. “Vehicle Re-Identification Using Quadruple Directional Deep Learning Features.” In <i>IEEE Transactions on Intelligent Transportation Systems (<b>TITS</b>)</i>, Vol. 21, No. 1, pp. 410-420, Jan 2020.</li>-->
+
 <li>Wei Liu, <b>Shengcai Liao*</b>, and Weidong Hu, “Efficient Single-Stage Pedestrian Detection by Asymptotic Localization Fitting and Multi-Scale Context Encoding,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 29, pp. 1413-1425, 2019.</li>
+
 <li>Wei Liu, <b>Shengcai Liao*</b>, and Weidong Hu, “Perceiving Motion from Dynamic Memory for Vehicle Detection in Surveillance Videos,” in <i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>, Vol. 29, No. 12, pp. 3558-3567, 2019.</li>
+
 <li>Wei Liu, <b>Shengcai Liao*</b>, Weidong Hu, “Towards Accurate Tiny Vehicle Detection in Complex Scenes,” in <i>Neurocomputing</i>, Vol. 347, pp. 24-33, 28 June 2019.</li>
+
 <!--<li>Xiaobo Wang, Zhen Lei, <b>Shengcai Liao</b>, Xiaojie Guo, Yang Yang and Stan Z. Li, “Dependence-Aware Feature Coding for Person Re-Identification,” in <i>IEEE Signal Processing Letters</i>, vol. 25, no. 4, pp. 506-510, April 2018.</li>-->
 <!--<li>Wen Fang, Hai-Miao Hu, Zihao Hu, <b>Shengcai Liao</b>, Bo Li, “Perceptual hash-based feature description for person re-identification,” in <i>Neurocomputing</i>, Volume 272, Pages 520-531, 10 January 2018.</li>-->
 <!--<li>Jianqing Zhu, Huanqiang Zeng, <b>Shengcai Liao</b>, Zhen Lei, Canhui Cai, Lixin Zheng, “Deep Hybrid Similarity Learning for Person Re-identification”, in <i>IEEE Transaction on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>, Vol. 28, No. 11, pp. 3183-3193, Nov. 2018.</li>-->
+
 <li><b>Shengcai Liao</b>, Anil K. Jain, and Stan Z. Li, “A Fast and Accurate Unconstrained Face Detector,” in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>, Vol.38, No.2, pp. 211-223, February 2016. [<a href="doc/liao-pami15-npd.pdf">pdf</a>]</li>
+
 <li>Jianqing Zhu, <b>Shengcai Liao*</b>, and Stan Z. Li. “Multi-Camera Joint Video Synopsis,” in <i>IEEE Transaction on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>, Vol.26, No.6, pp. 1058-1069, June 2016.</li>
+
 <li>Jianqing Zhu, <b>Shengcai Liao*</b>, Zhen Lei, and Stan Z. Li. “Multi-label convolutional neural network based pedestrian attribute classification.” In <i>Image and Vision Computing (<b>IVC</b>)</i>, vol.58, pp. 224-229, February 2017.</li>
 <li>Cuicui Kang, Shiming Xiang, <b>Shengcai Liao</b>, Changsheng Xu, Chunhong Pan, “Learning Consistent Feature Representation for Cross-Modal Multimedia Retrieval,” <i>IEEE Transactions on Multimedia (<b>TMM</b>)</i>, vol.17, no.3, pp. 370-381, March 2015</li>
 <li>Hong Han, Jianfei Zhu, <b>Shengcai Liao</b>, Zhen Lei, and Stan Z. Li. “Moving Object Detection Revisited: Speed and Robustness,” in <i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>, Vol.25, No.6, pp.910-921, June 2015.</li>

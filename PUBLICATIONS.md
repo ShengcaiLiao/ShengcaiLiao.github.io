@@ -8,6 +8,12 @@
 
 <ol>
 
+<li>Jin Jiang, <b>Shengcai Liao*</b>, Xiaoyuan Yang, Kangqing Shen, “EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection,” in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 22 September 2025.</li>
+
+<li>Zutao Jiang, Guian Fang, Jianhua Han, Guansong Lu, Hang Xu, <b>Shengcai Liao</b>, Xiaojun Chang, Xiaodan Liang, “RealignDiff: Boosting Text-to-Image Diffusion Model With Coarse-to-Fine Semantic Realignment,” in <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 2025.</li>
+
+<li>Yichao Yan, Junjie Li, <b>Shengcai Liao</b>, and Jie Qin, “TAL: two-stream adaptive learning for generalizable person re-identification,” in <i>Machine Intelligence Research</i>, No. 2, Vol. 22, pp. 337 – 351, 2025.</li>
+
 <li>Xingping Dong*, Tianran Ouyang, <b>Shengcai Liao*</b>, and Ling Shao, “Pseudo-Labeling Based Practical Semi-Supervised Meta-Training for Few-Shot Learning,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 33, pp. 5663-5675, 20 September 2024.</li>
 
 <li>Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, <b>Shengcai Liao</b>, and Shijian Lu, “POCE: Pose-Controllable Expression Editing,” in <i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>, Vol. 32, pp. 6210-6222, 2023.</li>
@@ -57,6 +63,10 @@
 ### Conference Papers
 
 <ol>
+
+<li>Qingzhi He, Yizhen Jia, Wentong Li, <b>Shengcai Liao</b>, Rong Quan, Tong Cui, Jie Qin, “Large Models are Good Annotators for Zero-Shot Learning,” in <i>Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>)</i>, July 13, 2025.</li>
+
+<li>Sanoojan Baliah, Qinliang Lin, <b>Shengcai Liao</b>, Xiaodan Liang, and Muhammad Haris Khan, “Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models,” in <i>IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV</b>)</i>, Tucson, Arizona, USA, Feb 28 – Mar 4, 2025.</li>
 
 <li>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, Zutao Jiang, Hang Xu, <b>Shengcai Liao</b>, Xiaodan Liang, “HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance.” In the 18th European Conference on Computer Vision (<b>ECCV</b>), Milano, Italy, Sep 29 - Oct 4, 2024.</li>
 

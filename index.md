@@ -7,8 +7,10 @@
 
 ### News
 
+* **`<font color=red>`09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!`</font>`**
+* **`<font color=red>`08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!`</font>`**
 * 12/2024, I am deeply honored to be named an IEEE Fellow and IAPR Fellow!
-* **<font color=red>08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor. I'm looking for postdocs, PhD/master students, and visiting students who will work on multimodal LLM and generative AI, and digital humans. Contact me if you are interested in.</font>**
+* 08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor.
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
 * 02/2021, We are hiring! [[LinkedIn](https://www.linkedin.com/hiring/jobs/2425922397/detail/)] [[公众号](https://mp.weixin.qq.com/s/G-Cja7ngMYskFyCj6CTVdg)]
 * 11/2019, In ICCV2019, we have been awarded the 1st place for the [NightOwls Pedestrian Detection Challenge 2019](https://www.nightowls-dataset.org/nightowls-competition-2019/), and 2nd place for the [WIDER Face &amp; Person Challenge 2019](https://wider-challenge.org/2019.html) – Track 2: Pedestrian Detection!
@@ -29,7 +31,7 @@ Object Detection, Object Tracking, Person Re-identification
 
 Similarity/Metric Learning, Deep Learning, Domain Generalization
 
-AIGC, Image Generation, Synthetic Persons, MetaHuman
+Multimodal LLM, Image and Video Generation, Embodied AI, and Digital Humans
 
 ### Employment
 
@@ -82,10 +84,11 @@ AIGC, Image Generation, Synthetic Persons, MetaHuman
 #### Program Chair
 
 * [IJCB 2022](https://ijcb2022.org/#/)
+* [ICIG 2025](https://icig.csig.org.cn/2025/)
 
 #### Area Chair
 
-* [ICCV 2025](http://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* AAAI 2025, ICML 2025, [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](http://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
 
 #### Senior Program Committee
 

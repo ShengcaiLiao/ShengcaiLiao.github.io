@@ -12,8 +12,8 @@ Shengcai Liao is an Associate Professor and founding director of the Computer Vi
 
 ### News
 
-* **`<font color=red>`09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!`</font>`**
-* **`<font color=red>`08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!`</font>`**
+* **<font color=red>09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!</font>**
+* **<font color=red>08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!</font>**
 * 12/2024, I am deeply honored to be named an IEEE Fellow and IAPR Fellow!
 * 08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor.
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.

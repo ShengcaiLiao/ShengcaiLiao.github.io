@@ -13,8 +13,8 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### News
 
-* **<font color=red>09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!</font>**
-* **<font color=red>08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!</font>**
+* **`<font color=red>`09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!`</font>`**
+* **`<font color=red>`08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!`</font>`**
 * 12/2024, I am deeply honored to be named an IEEE Fellow and IAPR Fellow!
 * 08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor.
 * 12/2021, A [video introducing TransMatcher](https://slideslive.com/38966920) is released.
@@ -52,10 +52,10 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### Courses
 
-* CENG202: Discrete Mathematics, CIT, UAEU. Sections: Fall 2024 (2), Summer 2025 (1), Spring 2026 (1).
-* CENG580: Selected Topics in Computer Engineering (Deep Learning for Computer Vision), CIT, UAEU. Sections: Spring 2025 (2), Fall 2025 (1).
-* ITPG698: Special Topics in IT (LLMs and Multimodal Generative AI, Master), CIT, UAEU. Sections: Fall 2025 (1).
-* CENG655: Special Topics in Comp. & IoT (Computer Vision for IoT, Master), CIT, UAEU. Sections: Spring 2026 (1).
+* **CENG202:** Discrete Mathematics, CIT, UAEU. Sections: Fall 2024 (2), Summer 2025 (1), Spring 2026 (1).
+* **CENG580:** Selected Topics in Computer Engineering (Deep Learning for Computer Vision), CIT, UAEU. Sections: Spring 2025 (2), Fall 2025 (1).
+* **ITPG698:** Special Topics in IT (LLMs and Multimodal Generative AI, Master), CIT, UAEU. Sections: Fall 2025 (1).
+* **CENG655:** Special Topics in Comp. & IoT (Computer Vision for IoT, Master), CIT, UAEU. Sections: Spring 2026 (1).
 
 ### Awards and Honors
 
@@ -99,17 +99,6 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 #### Area Chair
 
 * AAAI 2026, ICML 2026, ICML 2025, [NeurIPS 2026](https://neurips.cc/Conferences/2026), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](http://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/)
-
-#### Senior Program Committee
-
-* IJCAI 2021
-
-#### Program Committee
-
-* ICCV 2011-2021, CVPR 2012-2021, ECCV 2012-2022
-* NeurIPS 2020-2022, AAAI 2020-2024, ICLR 2022-2023, ICML 2023
-* ICPR 2014-2022, AVSS 2015-2017, WACV 2013, BMVC 2017
-* ICB, IJCB, BTAS
 
 <!-- #### Journal Reviewer
 * IEEE Transactions: [TPAMI](http://www.computer.org/tpami), [TIP](http://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [TNNLS](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html), [TSMC-B](http://www.ieee-smc.org/publications/index.html), [TCSVT](http://tcsvt.polito.it/), [TIFS](http://www.signalprocessingsociety.org/publications/periodicals/forensics/), [TMM](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)

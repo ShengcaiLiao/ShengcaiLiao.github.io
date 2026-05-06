@@ -3,12 +3,13 @@
 * [Research Interests](#research-interests)
 * [Employment](#Employment)
 * [Education](#Education)
+* [Courses](#courses)
 * [Awards and Honors](#awards-and-Honors)
 * [Professional Activities](#professional-activities)
 
 ### Short Bio
 
-Shengcai Liao is an Associate Professor and founding director of the Computer Vision Lab (CVLab) in the College of Information Technology (CIT) in UAEU. He is an IEEE Fellow and IAPR Fellow. He was a Principal Scientist in IIAI, G42 in UAE during 2018-2024, and an Associate Professor in Institute of Automation, Chinese Academy of Sciences (CASIA) from 2014 to 2018. He received B.S. degree in mathematics from Sun Yat-sen University in 2005 and Ph.D. degree from CASIA in 2010. He was a Postdoc at Michigan State University during 2010-2012. He is interested in face and person detection, recognition, analysis, and image and video generation. He has published 100+ papers, with 23,083 citations and h-index 56. He ranks #905 among 215,114 world-wide AI scientists (Top 0.42%) in 2019 (by Stanford University). His representative work LOMO+XQDA for person re-identification has been cited 2,643 times and ranks #11 in the Most Influential CVPR Papers 2015. He was awarded Best Paper/Best Student Paper in ICB 2006/2007/2015, and CCBR 2016, Best/Outstanding Reviewer in IJCB 2014, CVPR 2019/2021, Great Contribution Award for Beijing 2008 Olympic Games, Second-Class Award of the China State Science and Technology Progress Award 2019, and Winner of CVPR 2017 Detection in Crowded Scenes Challenge and ICCV 2019 NightOwls Pedestrian Detection Challenge. He served as an Assistant Editor for “Encyclopedia of Biometrics, 2nd Ed.”, Guest Associate Editor for IEEE T-BIOM, and Associate Editor for IEEE TIP and TMM. He led a successful bid of hosting IJCB 2022 at Abu Dhabi and served as a Program Chair. He served as Program Chair for ICIG 2025 and Area Chair for ICPR 2016, ICB 2016/2018, CVPR 2022/2023/2025, ICCV 2023/2025, ICML 2025, NeurIPS 2023-2025, ECCV 2024, AAAI 2025, and WACV 2024/2025.
+Dr. Shengcai Liao is an Associate Professor and founding director of the Computer Vision Lab (CVLab) in the College of Information Technology (CIT) in UAEU. He is an IEEE Fellow and IAPR Fellow. He was a Principal Scientist in IIAI, G42 in UAE during 2018-2024, and an Associate Professor in Institute of Automation, Chinese Academy of Sciences (CASIA) from 2014 to 2018. He received B.S. degree in mathematics from Sun Yat-sen University in 2005 and Ph.D. degree from CASIA in 2010. He was a Postdoc at Michigan State University during 2010-2012. He is interested in digital human, robotics, embodied AI, human-centric AI, and image and video generation. He has published 100+ papers, with over 23,000 citations and h-index 57. He ranks #905 among 215,114 world-wide AI scientists (Top 0.42%) in 2019 (by Stanford University). His representative work LOMO+XQDA for person re-identification has been cited over 2,600 times and ranks #11 in [Most Influential CVPR Papers 2015](https://www.paperdigest.org/2021/03/most-influential-cvpr-papers-2021-03/). He was awarded Best Paper/Best Student Paper in ICB 2006/2007/2015, and CCBR 2016, Best/Outstanding Reviewer in IJCB 2014, CVPR 2019/2021, Great Contribution Award for Beijing 2008 Olympic Games, Second-Class Award of the China State Science and Technology Progress Award 2019, and Winner of CVPR 2017 Detection in Crowded Scenes Challenge and ICCV 2019 NightOwls Pedestrian Detection Challenge. He served as an Assistant Editor for “Encyclopedia of Biometrics, 2nd Ed.”, Guest Associate Editor for IEEE T-BIOM, and Associate Editor for IEEE TPAMI, TIP and TMM. He served as Program Chair for IJCB 2022 and ICIG 2025, and Area Chair for CVPR 2022/2023/2025, ICCV 2023/2025, ICML 2025-2026, NeurIPS 2023-2026, AAAI 2026, ECCV 2024, and WACV 2024/2025.
 
 ### News
 
@@ -28,15 +29,11 @@ Shengcai Liao is an Associate Professor and founding director of the Computer Vi
 
 ### Research Interests
 
-Computer Vision, Pattern Recognition, Machine Learning
+**Generative AI:** Personalized Image/Video Generation, Digital Human, Multimodal LLM
 
-Face Detection, Face Recognition, Biometrics
+**Robotics:** Embodied AI, Humanoid/Social Robots, Human-Robot Interaction
 
-Object Detection, Object Tracking, Person Re-identification
-
-Similarity/Metric Learning, Deep Learning, Domain Generalization
-
-Multimodal LLM, Image and Video Generation, Embodied AI, and Digital Humans
+**Human-Centric AI:** Face/Person Detection/Recognition/Analysis/Tracking, Biometrics, Video Analysis, Similarity/Metric Learning
 
 ### Employment
 
@@ -52,6 +49,13 @@ Multimodal LLM, Image and Video Generation, Embodied AI, and Digital Humans
 * 09/2005 ~ 07/2010, PhD, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
 * 09/2001 ~ 07/2005, B.S. Degree in Mathematics, [Sun Yat-sen University](http://www.sysu.edu.cn/)
 * 09/1998 ~ 07/2001, High School, [Meizhou Zengxianzi Middle School](http://www.mzxz.cn/)
+
+### Courses
+
+* CENG202: Discrete Mathematics, CIT, UAEU. Sections: Fall 2024 (2), Summer 2025 (1), Spring 2026 (1).
+* CENG580: Selected Topics in Computer Engineering (Deep Learning for Computer Vision), CIT, UAEU. Sections: Spring 2025 (2), Fall 2025 (1).
+* ITPG698: Special Topics in IT (LLMs and Multimodal Generative AI, Master), CIT, UAEU. Sections: Fall 2025 (1).
+* CENG655: Special Topics in Comp. & IoT (Computer Vision for IoT, Master), CIT, UAEU. Sections: Spring 2026 (1).
 
 ### Awards and Honors
 
@@ -81,6 +85,7 @@ Multimodal LLM, Image and Video Generation, Embodied AI, and Digital Humans
 
 #### Editor
 
+* Associate Editor, [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp)
 * Associate Editor, [IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)
 * Associate Editor, [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
 * Guest Associate Editor, [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://tbiom.ieee-biometrics.org/)
@@ -93,7 +98,7 @@ Multimodal LLM, Image and Video Generation, Embodied AI, and Digital Humans
 
 #### Area Chair
 
-* AAAI 2025, ICML 2025, [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](http://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/), [ELM 2014](http://elm2014.extreme-learning-machines.org/)
+* AAAI 2026, ICML 2026, ICML 2025, [NeurIPS 2026](https://neurips.cc/Conferences/2026), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](http://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [WACV 2025](https://wacv2025.thecvf.com/), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ECCV 2024](https://eccv2024.ecva.net/), [WACV 2024](https://wacv2024.thecvf.com/), [NeurIPS 2023](https://neurips.cc/Conferences/2023), [ICCV 2023](http://iccv2023.thecvf.com/), [CVPR 2023](http://cvpr2023.thecvf.com/), [CVPR 2022](http://cvpr2022.thecvf.com/), [ICB 2018](http://icb2018.org/), [ICPR 2016](http://www.icpr2016.org/site/), [ICB 2016](http://icb2016.hh.se/)
 
 #### Senior Program Committee
 

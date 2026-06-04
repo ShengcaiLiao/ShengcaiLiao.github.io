@@ -70,6 +70,8 @@
 
 <li>Yutong Zhang, Jiaxin Chen, Honglin Chen, Kaiqi Zheng, <b>Shengcai Liao</b>, Hanwen Zhong, Weixin Li, Yunhong Wang, “Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation,” in <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, Denver, CO, USA, June 3-7, 2026.</li>
 
+<li>Zhengquan Luo, Xuhui Li, Changyou Chen, Dong An, <b>Shengcai Liao</b>, Peilin Zhao, Yunlong Wang, and Zhiqiang Xu, “Federated Learning with Local-global Dual Matching Dataset Distillation,” in <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML PKDD</b>)</i>, Naples, Italy, Sep. 7-11, 2026.</li>
+
 <li>Yutong Zhang, Zimeng Wu, <b>Shengcai Liao</b>, Shujiang Wu, Jiaxin Chen, “MP-ISMoE: Mixed-Precision Interactive Side Mixture-of-Experts for Efficient Transfer Learning,” in <i>Proceedings of the AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>, Singapore, Jan. 20-27, 2026.</li>
 
 <li>Qingzhi He, Yizhen Jia, Wentong Li, <b>Shengcai Liao</b>, Rong Quan, Tong Cui, Jie Qin, “Large Models are Good Annotators for Zero-Shot Learning,” in <i>Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>)</i>, Padua, Italy, July 13-17, 2025.</li>

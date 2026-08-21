@@ -9,7 +9,7 @@
 
 ### Short Bio
 
-Dr. Shengcai Liao is an Associate Professor and founding director of the Computer Vision Lab (CVLab) in the College of Information Technology (CIT) in UAEU. He is an IEEE Fellow and IAPR Fellow. He was a Principal Scientist in IIAI, G42 in UAE during 2018-2024, and an Associate Professor in Institute of Automation, Chinese Academy of Sciences (CASIA) from 2014 to 2018. He received B.S. degree in mathematics from Sun Yat-sen University in 2005 and Ph.D. degree from CASIA in 2010. He was a Postdoc at Michigan State University during 2010-2012. He is interested in digital human, robotics, embodied AI, human-centric AI, and image and video generation. He has published 100+ papers, with over 23,000 citations and h-index 57. He ranks #905 among 215,114 world-wide AI scientists (Top 0.42%) in 2019 (by Stanford University). His representative work LOMO+XQDA for person re-identification has been cited over 2,600 times and ranks #11 in [Most Influential CVPR Papers 2015](https://www.paperdigest.org/2021/03/most-influential-cvpr-papers-2021-03/). He was awarded Best Paper/Best Student Paper in ICB 2006/2007/2015, and CCBR 2016, Best/Outstanding Reviewer in IJCB 2014, CVPR 2019/2021, Great Contribution Award for Beijing 2008 Olympic Games, Second-Class Award of the China State Science and Technology Progress Award 2019, and Winner of CVPR 2017 Detection in Crowded Scenes Challenge and ICCV 2019 NightOwls Pedestrian Detection Challenge. He served as an Assistant Editor for “Encyclopedia of Biometrics, 2nd Ed.”, Guest Associate Editor for IEEE T-BIOM, and Associate Editor for IEEE TPAMI, TIP and TMM. He served as Program Chair for IJCB 2022 and ICIG 2025, and Area Chair for CVPR 2022/2023/2025, ICCV 2023/2025, ICML 2025-2026, ICLR 2027, NeurIPS 2023-2026, AAAI 2026-2027, ECCV 2024, and WACV 2024-2027.
+Dr. Shengcai Liao is an Associate Professor and founding director of the Computer Vision Lab (CVLab) in the College of Computing and Artificial Intelligence (CCAI) in UAEU. He is an IEEE Fellow and IAPR Fellow. He was a Principal Scientist in IIAI, G42 in UAE during 2018-2024, and an Associate Professor in Institute of Automation, Chinese Academy of Sciences (CASIA) from 2014 to 2018. He received B.S. degree in mathematics from Sun Yat-sen University in 2005 and Ph.D. degree from CASIA in 2010. He was a Postdoc at Michigan State University during 2010-2012. He is interested in digital human, robotics, embodied AI, human-centric AI, and image and video generation. He has published 100+ papers, with over 23,000 citations and h-index 57. He ranks #905 among 215,114 world-wide AI scientists (Top 0.42%) in 2019 (by Stanford University). His representative work LOMO+XQDA for person re-identification has been cited over 2,600 times and ranks #11 in [Most Influential CVPR Papers 2015](https://www.paperdigest.org/2021/03/most-influential-cvpr-papers-2021-03/). He was awarded Best Paper/Best Student Paper in ICB 2006/2007/2015, and CCBR 2016, Best/Outstanding Reviewer in IJCB 2014, CVPR 2019/2021, Great Contribution Award for Beijing 2008 Olympic Games, Second-Class Award of the China State Science and Technology Progress Award 2019, and Winner of CVPR 2017 Detection in Crowded Scenes Challenge and ICCV 2019 NightOwls Pedestrian Detection Challenge. He served as an Assistant Editor for “Encyclopedia of Biometrics, 2nd Ed.”, Guest Associate Editor for IEEE T-BIOM, and Associate Editor for IEEE TPAMI, TIP and TMM. He served as Program Chair for IJCB 2022 and ICIG 2025, and Area Chair for CVPR 2022/2023/2025, ICCV 2023/2025, ICML 2025-2026, ICLR 2027, NeurIPS 2023-2026, AAAI 2026-2027, ECCV 2024, and WACV 2024-2027.
 
 ### News
 
@@ -37,7 +37,7 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### Employment
 
-* 08/2024 ~ present, Associate Professor, [College of Information Technology (CIT)](https://www.uaeu.ac.ae/en/cit/), [United Arab Emirates University (UAEU)](https://www.uaeu.ac.ae/)
+* 08/2024 ~ present, Associate Professor, [College of Computing and Artificial Intelligence (CCAI)](https://www.uaeu.ac.ae/en/cit/), [United Arab Emirates University (UAEU)](https://www.uaeu.ac.ae/)
 * 10/2021 ~ 06/2024, Acting Director of R&D, Principal Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 10/2018 ~ 09/2021, Lead Scientist, [Inception Institute of Artificial Intelligence (IIAI)](http://www.inceptioniai.org/), [G42](https://g42.ai/)
 * 11/2014 ~ 10/2018, Associate Professor, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/)
@@ -52,10 +52,10 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### Courses
 
-* **CENG202:** Discrete Mathematics, CIT, UAEU. Sections: Fall 2024 (2), Summer 2025 (1), Spring 2026 (1).
-* **CENG580:** Selected Topics in Computer Engineering (Deep Learning for Computer Vision), CIT, UAEU. Sections: Spring 2025 (2), Fall 2025 (1).
-* **ITPG698:** Special Topics in IT (LLMs and Multimodal Generative AI, Master), CIT, UAEU. Sections: Fall 2025 (1).
-* **CENG655:** Special Topics in Comp. & IoT (Computer Vision for IoT, Master), CIT, UAEU. Sections: Spring 2026 (1).
+* **CENG202:** Discrete Mathematics, CCAI, UAEU. Sections: Fall 2024 (2), Summer 2025 (1), Spring 2026 (1).
+* **CENG580:** Selected Topics in Computer Engineering (Deep Learning for Computer Vision), CCAI, UAEU. Sections: Spring 2025 (2), Fall 2025 (1).
+* **ITPG698:** Special Topics in IT (LLMs and Multimodal Generative AI, Master), CCAI, UAEU. Sections: Fall 2025 (1).
+* **CENG655:** Special Topics in Comp. & IoT (Computer Vision for IoT, Master), CCAI, UAEU. Sections: Spring 2026 (1).
 
 ### Awards and Honors
 

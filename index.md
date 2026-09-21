@@ -13,7 +13,7 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### News
 
-* **<font color=red>09/2025, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!</font>**
+* **<font color=red>09/2026, Looking for Spring and Fall 2026 PhD (Full PhD Fellowship) and master students with strong passion and curiosity in multimodal LLM, image and video generation, embodied AI, and digital humans!</font>**
 * **<font color=red>08/2025, I established a new Computer Vision Lab (CVLab) in UAEU. Welcome to join!</font>**
 * 12/2024, I am deeply honored to be named an IEEE Fellow and IAPR Fellow!
 * 08/2024, I'm delighted to share with you that I've just joined United Arab Emirates University (UAEU) as an Associate Professor.
@@ -29,7 +29,7 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### Research Interests
 
-****Human-Centric AI:** **Face/Person Detection/Recognition/Analysis/Tracking, Biometrics, Video Analysis, Similarity/Metric Learning
+**Human-Centric AI:** **Face/Person Detection/Recognition/Analysis/Tracking, Biometrics, Video Analysis, Similarity/Metric Learning
 
 **Generative AI:** Personalized Image/Video Generation, Digital Human, Multimodal LLM
 

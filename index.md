@@ -29,11 +29,11 @@ Dr. Shengcai Liao is an Associate Professor and founding director of the Compute
 
 ### Research Interests
 
+****Human-Centric AI:** **Face/Person Detection/Recognition/Analysis/Tracking, Biometrics, Video Analysis, Similarity/Metric Learning
+
 **Generative AI:** Personalized Image/Video Generation, Digital Human, Multimodal LLM
 
 **Robotics:** Embodied AI, Humanoid/Social Robots, Human-Robot Interaction
-
-**Human-Centric AI:** Face/Person Detection/Recognition/Analysis/Tracking, Biometrics, Video Analysis, Similarity/Metric Learning
 
 ### Employment
 
